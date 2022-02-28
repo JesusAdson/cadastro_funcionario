@@ -18,7 +18,7 @@ Após ter clonado o projeto abra em um editor e realize os seguintes passos.
   - database_name = laravel (ou preferência)
   - user: root (ou preferência)
   - password: root (ou preferência)
-5. Mude no .env as seguintes variáveis.
+5. Mude no .env as seguintes variáveis utilizando as mesmas credenciais do BD.
   - `DB_DATABASE=laravel`
   - `DB_USERNAME=root`
   - `DB_PASSWORD=root`
