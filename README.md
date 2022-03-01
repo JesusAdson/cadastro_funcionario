@@ -2,7 +2,7 @@
 ## Iniciando
 
 Para iniciar o projeto em seu ambiente,
-use esse comando para clonar em sua máquina.
+execute esse comando para clonar em sua máquina.
 
 ```bash
   git clone https://github.com/JesusAdson/cadastro_funcionario.git
